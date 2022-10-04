@@ -1,0 +1,87 @@
+<html>
+    <head>
+        <title>The Generics</title>
+        <meta name="description" content="This is the description">
+        <link rel="stylesheet" href="styles.css">
+    </head>
+    <body>
+        <header class="main-header">
+            <nav class="nav main-nav">
+                <ul>
+                    <li><a href="index.html">HOME</a></li>
+                    <li><a href="store.html">STORE</a></li>
+                    <li><a href="about.html">ABOUT</a></li>
+                </ul>
+            </nav>
+           <div class="container">
+            <h1 class="band-name band-name-large">The Generics</h1>
+            <button class="btn btn-header" type="button">Get our latest album</button>
+        </div>
+          
+            <!-- TODO : Find a suitable background image -->
+            <button class="btn btn-header btn-play" type="button">&#9658</button>
+        </header>
+        <section class="content-section container">
+            <h2 class="section-header">TOURS</h2>
+            <div>
+                <div class="tour-row">
+                   <strong class="tour-item tour-date">JUL 16</strong> 
+                   <span>MUMBAI,INDIA</span>  
+                   <span>MUSIC THEATRE</span> 
+                  <button class="btn">BUY TICKETS</button>  
+                </div>
+            </div>
+            <div class="tour-row">
+                <div>
+                   <strong>JUL 17</strong> 
+                   <span>KOLKATA,INDIA</span>  
+                   <span>GUITAR CHAMPS</span> 
+                  <button class="btn">BUY TICKETS</button>  
+                </div>
+            </div>
+            <div class="tour-row">
+                <div>
+                   <strong>JUL 19</strong> 
+                   <span>ASSAM,INDIA</span>  
+                   <span>CODING FINALE</span> 
+                  <button class="btn">BUY TICKETS</button>  
+                </div>
+            </div>
+            <div class="tour-row">
+                <div>
+                   <strong>AUG 2</strong> 
+                   <span>HYDERABAD,INDIA</span>  
+                   <span> DEBATE</span> 
+                  <button class="btn">BUY TICKETS</button>  
+                </div>
+            </div>
+            <div class="tour-row">
+                <div>
+                   <strong>AUG 7</strong> 
+                   <span> GOA,INDIA</span>  
+                   <span> DANCE COMPETITION</span> 
+                  <button class="btn">BUY TICKETS</button>  
+                </div>
+            </div>
+            <div class="tour-row">
+                <div>
+                   <strong>AUG</strong> 
+                   <span> LUCKNOW,INDIA</span>  
+                   <span> RUBIX'S CUBE FINALE</span> 
+                  <button class="btn">BUY TICKETS</button>  
+                  
+                </div>
+            </div>
+        </section>
+        <footer>
+            <h3>The Generics</h3>
+            <ul>
+                <li><a href="https://www.facebook.com/" target="_blank"><img src="./images/facebook.png " width="8%" ></a></li>
+
+                <li><a href="https://www.spotify.com" target="_blank"><img src="./images/spotify.png" width="9%" ></a></li>
+                
+                <li><a href="https://www.youtube.com/" target="_blank"><img src="./images/youtube.png" alt="" width="12%"></a></li>
+            </ul>
+        </footer>
+    </body>
+</html>
